@@ -51,7 +51,7 @@
   },
   "peerDependencies": {
     "@angular/core": ">=12.0.1",
-    "cordova-plugin-advanced-http": "github:Plurilogic/cordova-plugin-advanced-http"
+    "cordova-plugin-advanced-http": ">=3.3.0"
   },
   "config": {
     "commitizen": {
